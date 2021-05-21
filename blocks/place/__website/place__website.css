@@ -1,0 +1,8 @@
+.place__website {
+}
+
+@media (max-width: 650px) {
+	.place__website {
+		margin-bottom: 32px;
+	}
+}
