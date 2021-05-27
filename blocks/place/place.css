@@ -3,6 +3,8 @@
 	gap: 0 40px;
 	grid-template-columns: 1fr 1fr;
 	padding-bottom: 80px;
+	max-width: 984px;
+	margin: auto;
 }
 
 .place:last-child {
